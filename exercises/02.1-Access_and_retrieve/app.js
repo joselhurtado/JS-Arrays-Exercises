@@ -1,3 +1,5 @@
+// Already Compiled
+
 //declaring the array
 var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 

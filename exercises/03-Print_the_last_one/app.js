@@ -1,3 +1,5 @@
+// Already Compiled
+
 function generateRandomArray()
 {
 	var auxArray = [];

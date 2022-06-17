@@ -1,1 +1,5 @@
-//you code here
+//Already Compiled
+
+for (let number = 7; number < 13; number++) {
+    console.log(number);
+}
