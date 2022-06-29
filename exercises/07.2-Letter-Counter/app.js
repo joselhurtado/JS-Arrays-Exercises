@@ -7,8 +7,8 @@ let parCounts = par.split(""); // Split String by Characters
 
 function count(par) {
     var count = {};
-    par.split('').forEach(function (s) {
-        count[s] ? count[s]++ : count[s] = 1;
+    par.split('').forEach(function (i) {
+        count[i] ? count[i]++ : count[i] = 1;
     });
     return count;
 }
